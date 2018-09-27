@@ -16,3 +16,9 @@ Healthcare often has a lot of moving pieces that can really benefit from a micro
 Being on an team focused around analytics and having so many containerized applications, capturing logs and user traffic has been a large priority.  We have implemented `ElasticSearch` which allows us to *slice and dice* our data to better understand our application usage, as well as understand issues across our entire offering.
 
 Our team has been given a lot of freedom, flexibility and responsibility for the direction and continued growth of our application.  I am often leading the way in pushing new ideas and concepts from initial design, to storyboards and all the way through architecture, technology and implementation. 
+
+A majority of visualizations in our tools are built in `Tableau` and `Highcharts`.  I have really enjoyed how simple yet powerful Tableau makes visualizations for our entire team, which range from analysts and nurses up to management. I have created visualizations that have used data from `TensorFlow` models to help cluster ED visits. Additionaly, I have used *sentiment analysis* and *rapid keyword extraction* in realtime with `TabPy` to understand patient experiences and chart those in an easy to consume dashboard.
+
+tl;dr;
+I enjoy learning and dabbling in development, devops, apis, machine learning, visualizations, creating, building, and all other techy things
+
