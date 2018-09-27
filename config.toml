@@ -95,7 +95,7 @@ disqusShortname = ""
       title = "Work"
       subtitle = "How I have fun during the day"
       image = "MHS.jpg"
-      url = "blogs/aliquam"
+      url = "posts/work"
 
     [[params.tiles.showcase]]
       title = "Play"
