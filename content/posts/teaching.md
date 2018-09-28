@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 date: 2018-09-27T22:12:12-04:00
-draft: true
+draft: false
 ---
 
 

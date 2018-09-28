@@ -1,7 +1,7 @@
 ---
 title: "Work"
 date: 2018-09-26T22:43:51-04:00
-draft: true
+draft: false
 ---
 
 I work as a software engineer for **Memorial Health System** in *Marietta, Ohio*.  I am currently on a **Decision Support** team that specializes in bringing business intelligence, analytics and integration into our healthcare system.
