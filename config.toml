@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "http://afreeland.com/"
+baseURL = "https://afreeland.github.io/"
 languageCode = "en-us"
 title = "afreeland"
 theme = "forty"
